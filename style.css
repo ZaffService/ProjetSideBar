@@ -85,7 +85,6 @@ body{
 
 .wrapper .main_content{
   width: 73%;
-  /* margin-top: -31.3rem; */
   transform: translateY(-100%);
   margin-left: 21rem;
   background-color: #eeeeee;
